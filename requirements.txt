@@ -1,6 +1,6 @@
 wheel
 cython
-clerkai
+clerkai>=0.2.2
 jupyter
 ipykernel
 papermill
